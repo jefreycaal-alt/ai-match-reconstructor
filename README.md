@@ -1,5 +1,5 @@
 # AI Match Reconstructor
-### IBM AI Builders Challenge — June 2026
+### IBM AI Builders Challenge for June 2026
 
 ## The Problem
 Millions of football fans miss matches due to work, school, or time zones.
