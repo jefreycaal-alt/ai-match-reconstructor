@@ -1,0 +1,83 @@
+{
+  "match": {
+    "homeTeam": "Argentina",
+    "awayTeam": "France",
+    "date": "2022-12-18",
+    "competition": "FIFA World Cup Final",
+    "venue": "Lusail Stadium, Qatar",
+    "score": {
+      "fullTime": { "home": 3, "away": 3 },
+      "penalties": { "home": 4, "away": 2 }
+    }
+  },
+  "events": [
+    {
+      "minute": 23,
+      "type": "GOAL",
+      "team": "Argentina",
+      "player": "Lionel Messi",
+      "detail": "Penalty after Di Maria was fouled. Argentina 1-0 France."
+    },
+    {
+      "minute": 36,
+      "type": "GOAL",
+      "team": "Argentina",
+      "player": "Angel Di Maria",
+      "detail": "Stunning team move finished by Di Maria. Argentina 2-0 France."
+    },
+    {
+      "minute": 41,
+      "type": "SUBSTITUTION",
+      "team": "France",
+      "player": "Olivier Giroud",
+      "detail": "Giroud and Dembele replaced as France search for a response."
+    },
+    {
+      "minute": 80,
+      "type": "GOAL",
+      "team": "France",
+      "player": "Kylian Mbappe",
+      "detail": "Penalty. France 1-2 Argentina. Game on."
+    },
+    {
+      "minute": 81,
+      "type": "GOAL",
+      "team": "France",
+      "player": "Kylian Mbappe",
+      "detail": "Stunning volley. France 2-2 Argentina. Mbappe with a brace in 90 seconds."
+    },
+    {
+      "minute": 108,
+      "type": "GOAL",
+      "team": "Argentina",
+      "player": "Lionel Messi",
+      "detail": "Messi taps in from close range in extra time. Argentina 3-2 France."
+    },
+    {
+      "minute": 118,
+      "type": "GOAL",
+      "team": "France",
+      "player": "Kylian Mbappe",
+      "detail": "Mbappe completes his hat-trick from the penalty spot. 3-3. Penalties loom."
+    },
+    {
+      "minute": 120,
+      "type": "KEY_MOMENT",
+      "team": "Argentina",
+      "player": "Emiliano Martinez",
+      "detail": "Martinez saves Coman's penalty in the shootout."
+    },
+    {
+      "minute": 120,
+      "type": "KEY_MOMENT",
+      "team": "Argentina",
+      "player": "Gonzalo Montiel",
+      "detail": "Montiel scores the winning penalty. Argentina are World Champions."
+    }
+  ],
+  "news_context": [
+    "Lionel Messi finally won the one trophy that had eluded him, the FIFA World Cup, in what many are calling the greatest final in tournament history.",
+    "Kylian Mbappe scored a hat-trick in the final, only the second player ever to do so in a World Cup Final, but it was not enough as Argentina won on penalties.",
+    "Argentina's goalkeeper Emiliano Martinez was the hero of the shootout, saving from Kingsley Coman to send a nation into delirium."
+  ]
+}
